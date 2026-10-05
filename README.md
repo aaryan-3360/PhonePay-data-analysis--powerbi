@@ -124,6 +124,6 @@ PhonePe-Payment-Insights-PowerBI/
 BCA Graduate | Aspiring Data Analyst
 📍 Haryana, India
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/aaryan-kamboj123) · 💻 [GitHub](https://github.com/aaryan-3360)
 
 ⭐ If you found this project useful, consider giving it a star!
