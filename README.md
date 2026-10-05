@@ -2,7 +2,7 @@
 
 > An end-to-end Power BI dashboard analysing **300K UPI transactions worth ₹3.47bn** across **108K users**, built to uncover payment performance, user behaviour and growth opportunities.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/dashboard.PNG)
 
 ---
 
