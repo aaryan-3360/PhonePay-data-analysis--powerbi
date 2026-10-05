@@ -90,7 +90,7 @@ Tables are linked on `User_ID` (one user → many transactions).
 ```
 PhonePe-Payment-Insights-PowerBI/
 │
-├── PhonePay.pbix                  # Power BI project file
+├
 ├── PhonePay.pdf                   # Exported dashboard (all pages)
 ├── Phonepe-Final-Dataset.xlsx     # Dataset
 ├── images/
